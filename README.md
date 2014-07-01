@@ -14,3 +14,7 @@ mro_crism_summary_params_event.pro
 
 in order to automate them and make them non-interactive one should patch them with....
 
+# The files inside the diff folder was created
+# by commands of the form
+diff original/<filename_prefix>_event.pro new/<filename_prefix>_auto.pro > ../diff/<filename_prefix>.pro
+
