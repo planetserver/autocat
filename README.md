@@ -1,7 +1,7 @@
 autocat
 =======
 
-Uses MRO CRISM CAT (http://pds-geosciences.wustl.edu/missions/mro/crism.htm).
+Uses MRO CRISM CAT (http://pds-geosciences.wustl.edu/missions/mro/crism.htm) which needs to be installed and patched for batch processing.
 
 various diff files needed to make automatic CAT IDL routines from the original event driven code
 the files are inside the folder original. They are :	
