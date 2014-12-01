@@ -8,11 +8,11 @@ the files can be found in the following CRISM CAT subfolder: CAT_ENVI\save_add\C
 
 They are :	
 
-* original/atpcorr_event.pro				
-* original/mro_crism_summary_params_hyper_event.pro
-* original/convert_pds2cat_event.pro			
-* original/projection_event.pro		
-* original/mro_crism_summary_params_event.pro	
+* atpcorr_event.pro				
+* mro_crism_summary_params_hyper_event.pro
+* convert_pds2cat_event.pro			
+* projection_event.pro		
+* mro_crism_summary_params_event.pro	
 
 
 in order to automate them and make them non-interactive one should "patch" them with the files 
