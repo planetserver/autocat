@@ -4,7 +4,9 @@ autocat
 Uses MRO CRISM CAT (http://pds-geosciences.wustl.edu/missions/mro/crism.htm) which needs to be installed and patched for batch processing.
 
 various diff files needed to make automatic CAT IDL routines from the original event driven code
-the files are inside the folder original. They are :	
+the files can be found in the following CRISM CAT subfolder: CAT_ENVI\save_add\CAT_programs\Event_handlers
+
+They are :	
 
 * original/atpcorr_event.pro				
 * original/mro_crism_summary_params_hyper_event.pro
