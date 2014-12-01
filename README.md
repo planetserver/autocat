@@ -1,7 +1,7 @@
 autocat
 =======
 
-# Preliminary
+# Prerequisites
 * Please download http://hesperia.gsfc.nasa.gov/ssw/gen/idl/io/rd_tfile.pro
 * Uses MRO CRISM CAT (http://pds-geosciences.wustl.edu/missions/mro/crism.htm) which needs to be installed and patched for batch processing.
 
